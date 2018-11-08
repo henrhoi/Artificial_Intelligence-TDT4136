@@ -3,3 +3,4 @@ Assignment\ 3/*
 .DS_Store
 *.pyc
 venv/*
+.idea/*
